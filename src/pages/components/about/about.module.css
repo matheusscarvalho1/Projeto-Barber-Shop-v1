@@ -17,13 +17,14 @@
 
 .about .timing {
   width: 33%;
-  max-height: 824px;
+  height: 720px;
   z-index: 999; 
   background-image: url(./brush-big.jpg);
+  background-repeat: no-repeat;
   position: relative;
   top: 100px;
   left: 40px;
-  background-repeat: no-repeat;
+  
 }
 
 
@@ -31,8 +32,8 @@
 .about .timing .overlay {
   background: rgba(0, 0, 0, 0.8);
   text-align: center;
-  padding: 20px 70px;
   position: absolute;
+  padding: 20px 70px;
   top: 50px;
   left: 40px;
 }
@@ -132,9 +133,9 @@
   }
 
   .about .timing .overlay {
-    background: rgba(0, 0, 0, 0.2);
+    background: none;
     position: inherit;
-    top: -120px;
+    top: -70px;
     left: -60px;
     height: 100vh;
     width: 100vw;
@@ -185,11 +186,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-   
-   
   }
+
   .about .experience h2 {
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 800;
   }
 
@@ -198,7 +198,7 @@
     font-weight: 100;
   }
   .about .experience .text p {
-    font-size: 15px;
+    font-size: 13px;
     word-wrap: break-word;
   }
 
@@ -236,7 +236,7 @@
   }
 
   .about {
-    background-size: 200px 150px;
+    background-size: 200px;
   
   }
 }
@@ -247,7 +247,7 @@
     height: 100%;
     overflow-y: hidden;
     padding: 20px;
-    background-size: 100px 150px;
+    background-size: 100px;
   }
 
   .brush2 {
@@ -259,18 +259,7 @@
     background-image: none;
   }
 
-  .about .timing .overlay {
-    background: rgba(0, 0, 0, 0.2);
-    position: inherit;
-    top: -120px;
-    left: -60px;
-    height: 100vh;
-    width: 100vw;
-    text-align: center;
-  
-    background-size: 100%;
-    background-position: fixed;
-  }
+ 
   .overlay .text {
     display: none;
   }
@@ -303,7 +292,7 @@
   }
 
   .about .experience .text h2 {
-    font-size: 10px;
+    font-size: 20px;
   }
 
   .about .experience {
@@ -317,7 +306,7 @@
    
   }
   .about .experience h2 {
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 800;
   }
 
@@ -326,7 +315,7 @@
     font-weight: 100;
   }
   .about .experience .text p {
-    font-size: 10px;
+    font-size: 13px;
     word-wrap: break-word;
   }
 
