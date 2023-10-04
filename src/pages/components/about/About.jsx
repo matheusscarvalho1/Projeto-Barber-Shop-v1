@@ -51,7 +51,7 @@ export default function About () {
                                         <p>
                                             <b>Tradição</b>: Mantemos viva a tradição da barbearia clássica, respeitando métodos e técnicas tradicionais que foram passados de geração em geração.<br /><br />
                                             <b>Excelência</b>: Nossos barbeiros são mestres em sua arte, dedicando-se a fornecer cortes de cabelo e barbas impecáveis em cada visita.<br /><br />
-                                            <b>Atendimento ao Cliente</b>: Valorizamos cada cliente e buscamos sempre superar suas expectativas. Nosso ambiente é acolhedor e amigável, tornando cada visita uma experiência agradável.
+                                            <b>Atendimento ao Cliente</b>: Valorizamos cada cliente e buscamos sempre superar suas expectativas. <br />Nosso ambiente é acolhedor e amigável, tornando cada visita uma experiência agradável.
                                         </p>
                                     </div>
 
