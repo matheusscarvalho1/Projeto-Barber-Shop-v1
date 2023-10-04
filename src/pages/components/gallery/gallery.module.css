@@ -29,7 +29,7 @@
 
 .gallery .galleryWrapper div {
   border: 10px solid var(--color-primary);
-  margin: 6px;
+  margin: 10px;
   width: 33%;
 }
 
@@ -53,8 +53,4 @@
     max-width: 100%;
   }
 
-
-  .gallery .galleryWrapper div {
-    border: none;
-  }
 }
