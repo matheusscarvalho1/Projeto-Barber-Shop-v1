@@ -1,0 +1,17 @@
+.box {
+  border: 3px solid #917758;
+  padding: 50px 40px;
+  margin: 30px;
+}
+
+.box h4 {
+  color: #3c2915;
+  margin-top: 30px;
+}
+
+.box p {
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #917758;
+}

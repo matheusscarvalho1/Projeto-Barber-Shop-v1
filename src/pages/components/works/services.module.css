@@ -1,0 +1,32 @@
+.services {
+  padding: 100px 0;
+  text-align: center;
+  background-color: #f5eee6;
+  width: 100vw;
+  height: 100vh;
+}
+
+.services h2 {
+  color: #3c2915;
+  font-weight: 400;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+@media (max-width: 850px) {
+  .services {
+    width: 100%;
+    height: 100%;
+  }
+  .boxes {
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}

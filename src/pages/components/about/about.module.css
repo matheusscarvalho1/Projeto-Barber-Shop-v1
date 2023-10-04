@@ -1,0 +1,344 @@
+.about {
+  background: var(--color-primary);
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  background-image: url(./shave-brush.jpg);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  
+}
+
+.about .container {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.about .timing {
+  width: 33%;
+  max-height: 824px;
+  z-index: 999; 
+  background-image: url(./brush-big.jpg);
+  position: relative;
+  top: 100px;
+  left: 40px;
+  background-repeat: no-repeat;
+}
+
+
+
+.about .timing .overlay {
+  background: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  padding: 20px 70px;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+
+.about .timing .icon-cut {
+  width: 50px;
+}
+
+.about .timing h3 {
+  color: var(--color-primary);
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--color-primary);
+  width: fit-content;
+  margin: 0 auto 30px auto;
+  font-size: 30px;
+}
+
+.about .timing .text h4 {
+  color: grey;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.about .timing span {
+  color: white;
+  font-size: 15px;
+  display: block;
+}
+
+.about .timing .text {
+  margin: 10px 0;
+}
+
+.about .timing .text:after {
+  content: "•";
+  font-size: 25px;
+  display: block;
+  margin-top: 10px;
+  color: white;
+}
+
+.about .timing .text:last-of-type:after {
+  content: "|";
+}
+
+.about .experience {
+  width: 66%;
+  color: white;
+  margin-top: 100px;
+}
+
+.about .experience h2 {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.about .experience h2:after {
+  display: block;
+  content: "";
+  width: 100px;
+  height: 3px;
+  background-color: #a38f78;
+  margin: 20px 0;
+}
+
+.about .experience .text {
+  justify-content: space-between;
+  display: flex;
+}
+
+
+.about .experience .text p {
+  font-weight: 100;
+  font-size: 17px;
+  
+}
+
+.about .experience .text p:first-child {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1280px) {
+
+  .about {
+    height: 100%;
+    overflow-y: hidden;
+    padding: 20px;
+  }
+
+  .brush2 {
+    display: none;
+  }
+
+  
+  .about .timing {
+    background-image: none;
+  }
+
+  .about .timing .overlay {
+    background: rgba(0, 0, 0, 0.2);
+    position: inherit;
+    top: -120px;
+    left: -60px;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+  
+    background-size: 100%;
+    background-position: fixed;
+  }
+  .overlay .text {
+    display: none;
+  }
+
+  .overlay span {
+    display: none;
+  }
+
+  .imgR {
+    display: none;
+  }
+
+  .imgRspan {
+    opacity: 0;
+  }
+
+  .about .experience h2 {
+    font-weight: 400;
+    font-size: 150px;
+  }
+
+  .timing .overlay h3,
+  .timing .overlay img:first-child {
+    display: none;
+  }
+
+  .timing .overlay span {
+    display: block;
+    text-align: center;
+  }
+
+  .about .experience .text h2 {
+    font-size: 10px;
+  }
+
+  .about .experience {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+   
+  }
+  .about .experience h2 {
+    font-size: 30px;
+    font-weight: 800;
+  }
+
+  .about .experience span{
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .about .experience .text p {
+    font-size: 15px;
+    word-wrap: break-word;
+  }
+
+  .about .timing h3 {
+    font-size: 400px;
+  }
+
+  .about .timing .text h4 {
+    color: grey;
+    font-weight: 200;
+    font-size: 10px;
+  }
+
+  .about .timing span {
+    color: white;
+    font-size: 10px;
+    display: block;
+  }
+
+  .about .timing .text {
+    margin: 10px 0;
+  }
+
+  .about .timing .text:after {
+    content: "•";
+    font-size: 12px;
+    display: block;
+    margin-top: 10px;
+    color: white;
+  }
+
+  .imgR {
+    width: 13px;
+    height: 13px;
+  }
+
+  .about {
+    background-size: 200px 150px;
+  
+  }
+}
+
+@media (max-width: 850px) {
+
+  .about {
+    height: 100%;
+    overflow-y: hidden;
+    padding: 20px;
+    background-size: 100px 150px;
+  }
+
+  .brush2 {
+    display: none;
+  }
+
+  
+  .about .timing {
+    background-image: none;
+  }
+
+  .about .timing .overlay {
+    background: rgba(0, 0, 0, 0.2);
+    position: inherit;
+    top: -120px;
+    left: -60px;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+  
+    background-size: 100%;
+    background-position: fixed;
+  }
+  .overlay .text {
+    display: none;
+  }
+
+  .overlay span {
+    display: none;
+  }
+
+  .imgR {
+    display: none;
+  }
+
+  .imgRspan {
+    opacity: 0;
+  }
+
+  .about .experience h2 {
+    font-weight: 400;
+    font-size: 150px;
+  }
+
+  .timing .overlay h3,
+  .timing .overlay img:first-child {
+    display: none;
+  }
+
+  .timing .overlay span {
+    display: block;
+    text-align: center;
+  }
+
+  .about .experience .text h2 {
+    font-size: 10px;
+  }
+
+  .about .experience {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+   
+  }
+  .about .experience h2 {
+    font-size: 30px;
+    font-weight: 800;
+  }
+
+  .about .experience span{
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .about .experience .text p {
+    font-size: 10px;
+    word-wrap: break-word;
+  }
+
+}
+/* 
+#btnTopo {
+  
+  opacity: 0; 
+  transition: opacity 0.3s ease-in-out; 
+}
+
+#btnTopo.show {
+  opacity: 1;
+}
+*/
