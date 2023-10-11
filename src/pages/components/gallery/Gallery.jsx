@@ -13,42 +13,46 @@ export default function Gallery () {
                     <Image src="/images/heading-ic.png" width={145} height={14} alt="Galeria de Fotos"/>
 
                     <div className={styles.galleryWrapper}>
-    
+        
+                    <div className={styles.mobileFoto}>
                         <Photo
                             image={'gallery-img1.png'}
                             width={277}
                             height={179}
                         />
+                    </div>
                         <Photo
                             image={'gallery-img2.png'}
                             width={277}
                             height={357}
-                            className={styles.foto}
                         />
                         <Photo
                             image={'gallery-img3.png'}
                             width={277}
                             height={179}
-                            className={styles.foto}
                         />
+                    <div className={styles.mobileFoto}>
                         <Photo
                             image={'gallery-img5.png'}
                             width={277}
                             height={238}
-                            className={styles.foto}
                         />
+                    </div>
+                    <div className={styles.mobileFoto2}>
                         <Photo
                             image={'gallery-img6.png'}
                             width={277}
-                            height={162}
-                            className={styles.foto}
+                            height={162}  
                         />
-                        <Photo
-                            image={'gallery-img7.png'}
-                            width={277}
-                            height={318}
-                            className={styles.foto}
-                        />
+                    </div>
+
+                        <div className={styles.mobileFoto}>
+                            <Photo
+                                image={'gallery-img7.png'}
+                                width={277}
+                                height={318}
+                            />
+                        </div>
                     </div>
                 </div>
             </section>

@@ -18,13 +18,19 @@
   margin: 0 auto;
 }
 
+.foto {
+  display: none;
+}
+
 .gallery .galleryWrapper {
   display: flex;
   flex-direction: column;
+  position: relative;
+  right: -30%;
   flex-wrap: wrap;
   width: 900px;
   height: 100vh;
-  margin: 50px auto;
+  margin-top: 50px;
 }
 
 .gallery .galleryWrapper div {
@@ -36,6 +42,12 @@
 .gallery .galleryWrapper div .foto {
   max-width: 100%;
   height: auto;
+}
+
+.gallery .galleryWrapper .mobileFoto2,
+.gallery .galleryWrapper .mobileFoto {
+  border: none;
+
 }
 
 @media screen and (max-width: 850px) {
@@ -51,6 +63,49 @@
     display: flex;
     flex-wrap: wrap;
     max-width: 100%;
+
+    
+  }
+
+  .gallery .galleryWrapper {
+    right: -15%;
+
+
+  }
+
+  .mobileFoto {
+  display: none;
+
+}
+
+
+
+
+}
+
+@media (min-width: 851px) and (max-width: 1280px) {
+
+  .gallery .galleryWrapper {
+    right: -2%;
+
+  }
+
+  .mobileFoto {
+    display: block;
+  }
+
+  .gallery .galleryWrapper .mobileFoto {
+    border: none;
+  
+  }
+
+}
+
+@media (max-width: 393px) {
+
+  .gallery .galleryWrapper .mobileFoto2 {
+    display: none;
+  
   }
 
 }

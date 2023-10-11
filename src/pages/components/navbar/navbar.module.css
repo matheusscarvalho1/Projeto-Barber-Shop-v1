@@ -20,7 +20,7 @@
   text-transform: uppercase;
   color: white;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 20px;
   padding: 20px;
   cursor: pointer;
 }
@@ -57,12 +57,17 @@
     background: rgba(0, 0, 0, 0.8);
     text-decoration: none;
     list-style: none;
-    justify-content: flex-end;
+    align-items: center;
+
+    
+    
   }
 
   .menuH {
     cursor: pointer;
     width: 100px;
+    position: relative;
+    left: 72%;
   }
 
   .header .menuM {
@@ -105,5 +110,12 @@
     position: absolute;
     top: 66px;
     right: 0px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .header .nav ul li a {
+    font-size: 12px;
+
   }
 }

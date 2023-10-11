@@ -14,7 +14,7 @@ export default function Mapa() {
                     <div className={styles.head}>
                         <div className={styles.info}>
                         <div className={styles.icon}>
-                                <Image src="/images/map-img1.png" width={14} height={18} className={styles.iconImg} alt="Localização"/>
+                                <Image src="/images/map-img1.png" width={20} height={20} className={styles.iconImg} alt="Localização"/>
                             </div>
                             <div className={styles.text}>
                                 <span>Localização</span>
@@ -24,7 +24,7 @@ export default function Mapa() {
 
                             <div className={styles.info}>
                             <div className={styles.icon}>
-                                    <Image src="/images/map-img2.png" width={12} height={18} className={styles.iconImg} alt="Telefone"/>
+                                    <Image src="/images/map-img2.png" width={18} height={20} className={styles.iconImg} alt="Telefone"/>
                                 </div>
                                 <div className={styles.text}>
                                     <span>Telefone</span>
@@ -34,7 +34,7 @@ export default function Mapa() {
 
                                 <div className={styles.info}>
                                 <div className={styles.icon}>
-                                        <Image src="/images/map-img3.png" width={16} height={14} className={styles.iconImg} alt="Email"/>
+                                        <Image src="/images/map-img3.png" width={20} height={18} className={styles.iconImg} alt="Email"/>
                                     </div>
                                     <div className={styles.text}>
                                         <span>E-mail</span>
@@ -45,7 +45,7 @@ export default function Mapa() {
 
                                     <div className={styles.info}>
                                     <div className={styles.icon}>
-                                            <Image src="/images/map-img4.png" width={16} height={16} className={styles.iconImg} alt="Horário"/>
+                                            <Image src="/images/map-img4.png" width={20} height={20} className={styles.iconImg} alt="Horário"/>
                                         </div>
                                         <div className={styles.text}>
                                             <span>Horário</span>

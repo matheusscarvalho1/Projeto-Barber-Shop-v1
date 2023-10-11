@@ -29,7 +29,7 @@ export default function Navbar () {
                                 </ScrollLink>
                             </li>
                             <li>
-                                <Image src="/images/logo.png" width={134} height={130} alt="Barber Shop" className={styles.logo}/>
+                                <Image src="/images/logo.png" width={200} height={200} alt="Barber Shop" className={styles.logo}/>
                             </li>
                             <li>
                                 <ScrollLink to="appointment" smooth={true} duration={500}>
