@@ -86,6 +86,10 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu naveg
 ![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6aeebb3a-f426-47e9-9ae5-20c604395234)
 
 
+# Próximos passos
+
+Seria interessante a implementação de uma API para consumir dados de um banco de dados para armazenar os agendamentos dos clientes.
+
 # Autor
 
 <b>Matheus de Souza Carvalho</b>
