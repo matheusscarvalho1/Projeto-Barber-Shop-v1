@@ -23,7 +23,8 @@ Também é necessário uma IDE, recomendo o VsCode
 
 ## Dependências do projeto
 
-![image](https://github.com/matheusscarvalho1/responsive-barber-shop-react.js-next.js/assets/73304785/baf5644f-8273-4c82-948e-9a402d044171)
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/c07d652f-6bd6-46b4-ab46-e9efdcb39221)
+
 
 ## Comandos
 
