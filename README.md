@@ -19,7 +19,7 @@ Também é necessário uma IDE, recomendo o VsCode
 - Instalação do VsCode: https://code.visualstudio.com/
 
 
-## Tecnologias e Dependências utilizadas no projeto
+## Tecnologias e dependências utilizadas no projeto
 
 - NextJs na sua versão 13.4.1
 - ReactJs na versão 18.2.0
@@ -44,6 +44,8 @@ npm run dev
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu navegador.
 
 # Resultados
+
+## Desktop
 
 <b><h2 align="center">Seção do site - Home</h2></b>
 
