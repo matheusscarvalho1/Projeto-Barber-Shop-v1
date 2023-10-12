@@ -2,7 +2,7 @@
 
 Projeto feito em React/Next.js baseado em um outro projeto antigo feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório [clicando aqui](https://github.com/matheusscarvalho1/Barber-Shop) )
 
-O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor do serviço ao cliente que acessar, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através dessa aplicação web e pode consultar a localização da barbearia, tudo em um lugar só.
+O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor ao serviço, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através da aplicação e pode consultar a localização da barbearia, tudo em um lugar só.
 
 ## Novas Funcionalidades
 
