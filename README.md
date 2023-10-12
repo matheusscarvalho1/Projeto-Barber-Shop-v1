@@ -69,6 +69,11 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu naveg
 
 ![image](https://user-images.githubusercontent.com/73304785/224450864-cbaef472-24d7-4106-94e6-92519ebb9771.png)
 
+- Ao preencher este formulário chegará uma notificação com as informações preenchidas no e-mail desejado.
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/d60ac997-fb5d-4977-b3a4-7e0cf4e34ebd)
+
+
 <hr>
 <b><h2 align="center">Seção do site - Galeria</h2></b>
 
