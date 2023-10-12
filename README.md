@@ -6,7 +6,7 @@ Projeto feito em React/Next.js baseado em um outro projeto antigo feito por mim 
 
 Foram adicionadas novas funções como a responsividade da página feita com css flexbox, tornando todas as seções do site acessiveis a dispositivos móveis, além disso o registro dos dados do formulário de agendamento chega no e-mail do proprietário da página, podendo assim gerenciar o agendamento de clientes com muito mais facilidade e praticidade.
 
-## Tecnologias
+## Tecnologias utilizadas
 
 - NextJs na sua versão 13.4.1
 - ReactJs na versão 18.2.0
@@ -26,7 +26,7 @@ Também é necessário uma IDE, recomendo o VsCode
 ![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/c07d652f-6bd6-46b4-ab46-e9efdcb39221)
 
 
-## Comandos
+## Como rodar o projeto
 
 Para instalar as bibliotecas e dependências:
 
@@ -34,7 +34,7 @@ Para instalar as bibliotecas e dependências:
 npm i
 ```
 
-Para rodar o projeto:
+Após instalar, basta utilizar o seguinte comando:
 
 ```bash
 npm run dev
