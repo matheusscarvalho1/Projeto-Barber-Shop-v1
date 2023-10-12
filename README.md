@@ -1,6 +1,6 @@
 # Projeto Barber Shop
 
-Projeto feito em React/Next.js baseado em um outro projeto antigo feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório - [Clicando aqui](https://github.com/matheusscarvalho1/Barber-Shop) )
+Projeto feito em React/Next.js baseado em um outro projeto antigo feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório [Clicando aqui](https://github.com/matheusscarvalho1/Barber-Shop) )
 
 ## Novas Funcionalidades
 
