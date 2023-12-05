@@ -21,8 +21,8 @@ Também é necessário uma IDE, recomendo o VsCode
 
 ## Tecnologias e dependências utilizadas no projeto
 
-- NextJs na sua versão 13.4.1
-- ReactJs na versão 18.2.0
+- [ReactJs na versão 18.2.0](https://github.com/facebook/react)
+- [NextJs na sua versão 13.4.1](https://github.com/vercel/next.js)
 
 ![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/c07d652f-6bd6-46b4-ab46-e9efdcb39221)
 
