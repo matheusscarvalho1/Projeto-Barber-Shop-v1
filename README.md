@@ -7,7 +7,6 @@ O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a hist
 Você precisa ter instalado o [NodeJS (Recomendado: versão 18)](https://nodejs.org/) e o npm ou yarn.
 
 
-
 Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.com/)
 
 
