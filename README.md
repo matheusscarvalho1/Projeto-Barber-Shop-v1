@@ -1,16 +1,18 @@
 # Projeto Barber Shop
+<div align="center">
+  
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/c4fbbd97-ce3a-4b33-b15f-9bee21086dc2)
 
+</div>
 O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor ao serviço, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através da aplicação pois após preencher o formulário de agendamento chega uma notificação com as informações preenchidas ao e-mail do barbeiro, além disso o cliente também pode consultar a localização da barbearia, tudo em um lugar só, além disso, a responsividade tambén está implementada, tornando todas as seções do site acessiveis a dispositivos móveis.
 
 ## Pré requisitos
 
-Você precisa ter instalado o [NodeJS (Recomendado: versão 18)](https://nodejs.org/) e o npm ou yarn.
-
+Você precisa ter instalado o [NodeJS](https://nodejs.org/) (Recomendado: versão 18) e o npm ou yarn.
 
 Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.com/)
 
-
-## Tecnologias e dependências utilizadas no projeto
+## Tecnologias utilizadas no projeto
 
 - [ReactJs na versão 18.2.0](https://github.com/facebook/react)
 - [NextJs na sua versão 13.4.1](https://github.com/vercel/next.js)
@@ -75,6 +77,50 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu naveg
 
 ![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6aeebb3a-f426-47e9-9ae5-20c604395234)
 
+## Mobile
+<b><h2 align="center">Seção do site - Home</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/66dd978f-0656-41fc-bc7f-56c75757a711)
+
+<hr>
+<b><h2 align="center">Seção do site - Home (Menu Dropdown)</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/14a67640-d559-42f7-ab5d-2b77cf2e4c0b)
+<hr>
+<b><h2 align="center">Seção do site - Sobre</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/7c82f6a1-3760-47aa-8fde-c52f0c992926)
+
+<hr>
+<b><h2 align="center">Seção do site - Nossos Serviços</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/f6ad0d23-eb7f-447d-ae82-facdfe946cd9)
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/724a786d-25fc-47b0-bf9f-20e4b934adc2)
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6913a518-f5e3-44af-8af7-ba159cdc0209)
+
+
+
+
+<hr>
+<b><h2 align="center">Seção do site - Agendamento</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/74de4bce-b923-4fd0-aa9e-77a012ec5843)
+<hr>
+<b><h2 align="center">Seção do site - Galeria</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/698720df-23c3-42e8-9b2a-c64e9e1c00df)
+
+
+<hr>
+
+<b><h2 align="center">Seção do site - Localização</h2></b>
+
+![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/f14b0846-db15-4fdb-95da-a9ae6081fc50)
+
+
+<hr>
 
 # Próximos passos
 
