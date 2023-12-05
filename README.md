@@ -1,31 +1,20 @@
 # Projeto Barber Shop
 
-Projeto feito em React/Next.js baseado em um outro projeto antigo feito por mim quando estava aprimorando meus conhecimentos em HTML/CSS (Disponível também no meu repositório [clicando aqui](https://github.com/matheusscarvalho1/Barber-Shop) )
-
-O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor ao serviço, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através da aplicação pois após preencher o formulário de agendamento chega uma notificação com as informações preenchidas ao e-mail do barbeiro, além disso o cliente também pode consultar a localização da barbearia, tudo em um lugar só.
-
-## Novas Funcionalidades
-
-Em relação ao projeto antigo, foram adicionadas novas funções como a responsividade da página feita com css flexbox, tornando todas as seções do site acessiveis a dispositivos móveis, além disso o registro dos dados do formulário de agendamento chega no e-mail do proprietário da página, podendo assim gerenciar o agendamento de clientes com muito mais facilidade e praticidade.
+O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor ao serviço, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através da aplicação pois após preencher o formulário de agendamento chega uma notificação com as informações preenchidas ao e-mail do barbeiro, além disso o cliente também pode consultar a localização da barbearia, tudo em um lugar só, além disso, a responsividade tambén está implementada, tornando todas as seções do site acessiveis a dispositivos móveis.
 
 ## Pré requisitos
 
-Você precisa ter instalado o NodeJS (Recomendado: versão 18) e o npm ou yarn.
+Você precisa ter instalado o [NodeJS (Recomendado: versão 18)](https://nodejs.org/) e o npm ou yarn.
 
-- Instalação do nodejs: https://nodejs.org/
 
-Também é necessário uma IDE, recomendo o VsCode
 
-- Instalação do VsCode: https://code.visualstudio.com/
+Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.com/)
 
 
 ## Tecnologias e dependências utilizadas no projeto
 
 - [ReactJs na versão 18.2.0](https://github.com/facebook/react)
 - [NextJs na sua versão 13.4.1](https://github.com/vercel/next.js)
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/c07d652f-6bd6-46b4-ab46-e9efdcb39221)
-
 
 ## Como rodar o projeto
 
