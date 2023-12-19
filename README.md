@@ -28,7 +28,7 @@ npm i
 Após instalar, basta utilizar o seguinte comando:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu navegador.
